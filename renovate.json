@@ -1,5 +1,5 @@
 {
   "docker": {
-    "registryUrls": ["https://mirror.gcr.io"]
+    "registryUrls": ["https://quay.io"]
   }
 }
